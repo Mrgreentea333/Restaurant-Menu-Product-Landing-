@@ -1,1 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero's Feast Tavern</title>
 
+    <!-- Google Font -->
+    https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap
+
+    style.css
+</head>
+<body>
+
+    <header>
+        <h1>Hero's Feast Tavern</h1>
+        <p>Where Heroes, Gamers, and Anime Fans Dine Together!</p>
+
+        <nav>
+            #heroHome</a>
+            #menuMenu</a>
+            #aboutAbout</a>
+            #reviewsReviews</a>
+            #contactContact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- HERO SECTION -->
+        <section id="hero" class="hero">
+            https://images.unsplash.com/photo-1517248135467-4c7edcad34c4
+
+            <h2>Experience an Epic Dining Adventure</h2>
+
+            <p>
+                Enjoy legendary burgers, magical desserts,
+                and heroic drinks in a fantasy-inspired atmosphere.
+            </p>
+
+            #menuView Our Menu</a>
+        </section>
+
+        <!-- MENU SECTION -->
+        <section id="menu">
+            <h2>Featured Menu</h2>
+
+            <div class="menu-container">
+
+                <div class="card">
+                    <h3>Dragon Flame Burger</h3>
+                    <p>
+                        Juicy beef burger with pepper jack cheese,
+                        spicy sauce, and crispy onions.
+                    </p>
+                    <h4>$13.99</h4>
+                </div>
+
+                <div class="card">
+                    <h3>Wizard Fries</h3>
+                    <p>
+                        Seasoned fries topped with cheese,
+                        herbs, and magical house seasoning.
+                    </p>
+                    <h4>$6.99</h4>
+                </div>
+
+                <div class="card">
+                    <h3>Mana Potion Shake</h3>
+                    <p>
+                        Blue vanilla milkshake topped with whipped cream.
+                    </p>
+                    <h4>$5.99</h4>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- DAILY SPECIAL -->
+        <section class="special">
+            <h2>Daily Special</h2>
+
+            https://images.unsplash.com/photo-1568901346375-23c9450c58cd
+
+            <h3>Ultimate Hero Burger</h3>
+
+            <p>
+                Double burger with bacon, cheddar cheese,
+                lettuce, tomato, and house sauce.
+            </p>
+
+            <p>
+                <del>$17.99</del>
+                <strong>$13.99</strong>
+            </p>
+        </section>
+
+        <!-- ABOUT SECTION -->
+        <section id="about">
+
+            <h2>About Hero's Feast Tavern</h2>
+
+            https://images.unsplash.com/photo-1552566626-52f8b828add9
+
+            <p>
+                Hero's Feast Tavern was founded by lifelong comic,
+                anime, and gaming fans who wanted to create a place
+                where everyone could enjoy amazing food while celebrating
+                their favorite fandoms.
+            </p>
+
+            <p>
+                Our mission is to bring people together through
+                epic meals, fun events, and unforgettable experiences.
+            </p>
+
+            <h3>What We Offer</h3>
+
+            <ul>
+                <li>Fantasy-Inspired Food</li>
+                <li>Anime Theme Nights</li>
+                <li>Comic Book Events</li>
+                <li>Family Friendly Atmosphere</li>
+            </ul>
+
+        </section>
+
+        <!-- REVIEW SECTION -->
+        <section id="reviews">
+
+            <h2>Customer Reviews</h2>
+
+            <div class="card">
+                <p>⭐⭐⭐⭐⭐</p>
+                <p>"Amazing food and awesome atmosphere!"</p>
+                <strong>- Jamie</strong>
+            </div>
+
+            <div class="card">
+                <p>⭐⭐⭐⭐⭐</p>
+                <p>"Best themed restaurant I've ever visited."</p>
+                <strong>- Alex</strong>
+            </div>
+
+        </section>
+
+        <!-- CONTACT SECTION -->
+        <section id="contact">
+
+            <h2>Location & Contact</h2>
+
+            <p><strong>Address:</strong> 123 Hero Lane, Ocean County, NJ</p>
+
+            <p><strong>Phone:</strong> (732) 555-2026</p>
+
+            <p><strong>Email:</strong> heroesfeast@email.com</p>
+
+            <h3>Hours</h3>
+
+            <ul>
+                <li>Monday: 11 AM - 9 PM</li>
+                <li>Tuesday: 11 AM - 9 PM</li>
+                <li>Wednesday: 11 AM - 9 PM</li>
+                <li>Thursday: 11 AM - 10 PM</li>
+                <li>Friday: 11 AM - 11 PM</li>
+                <li>Saturday: 12 PM - 11 PM</li>
+                <li>Sunday: 12 PM - 8 PM</li>
+            </ul>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Hero's Feast Tavern. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
